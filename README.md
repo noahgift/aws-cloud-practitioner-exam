@@ -8,7 +8,11 @@ Study Material for AWS Cloud Practitioner Exam.
 
 * [Website](https://noahgift.github.io/aws-cloud-practitioner-exam/)
 * [Labs](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
-* [Questions and Answers]
+* [Questions and Answers](https://noahgift.github.io/aws-cloud-practitioner-exam/questions-answers)
+
+## Need Help?  File a ticket
+
+* File a Github ticket for documentation, bugs in demos or other related issues.
 
 ### Additional Related Topics from Noah Gift
 
