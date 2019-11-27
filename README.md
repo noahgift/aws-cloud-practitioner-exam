@@ -11,9 +11,29 @@ Study Material for AWS Cloud Practitioner Exam.
 * [Questions and Answers](https://noahgift.github.io/aws-cloud-practitioner-exam/questions-answers)
 * [Pragmatic AI Labs YouTube](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 
+
+
 ## Need Help?  File a ticket
 
 * File a Github ticket for documentation, bugs in demos or other related issues.
+
+## Watch The Video Companions on YouTube
+
+**How to use Amazon S3 storage**
+
+[![How to use Amazon S3 storage!](https://img.youtube.com/vi/1gauWMpmf_E/0.jpg)](https://youtu.be/1gauWMpmf_E)
+
+**Learn to write AWS Lambda functions in Python**
+
+[![Learn to write AWS Lambda functions in Python!](https://img.youtube.com/vi/AlRUeNFuObk/0.jpg)](https://youtu.be/AlRUeNFuObk)
+
+**Learn to launch AWS Deep Learning Spot Instances**
+
+[![Learn to launch AWS Deep Learning Spot Instances!](https://img.youtube.com/vi/tzgzQow5OrE/0.jpg)](https://youtu.be/tzgzQow5OrE)
+
+**AWS Resources available to students and teachers**
+
+[![AWS Resources available to students and teachers!](https://img.youtube.com/vi/VeWGNn_qHJQ/0.jpg)](https://youtu.be/VeWGNn_qHJQ)
 
 ### Additional Related Topics from Noah Gift
 
