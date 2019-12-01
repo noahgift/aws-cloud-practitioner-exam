@@ -23,6 +23,7 @@ If you look at PaaS (Platform as a Service), what it means is as the developer y
 **Answer**: An [AWS edge location](https://aws.amazon.com/cloudfront/features) is a physical location in the world where a server lives.  Edge locations are different than datacenters because they serve a more narrow purpose.  The closer a user of the content is to the physical location of the server, the lower the latency of the request.  This is important in content deliver like streaming videos and music, and also for playing games.  The most commonly referred to edge service on AWS is CloudFront.  CloudFront is a CDN (Content Deliver Service).  Cached, or copies of the same movie file live in these locations all over the world via the CDN.  This allows users to all have a great experience streaming this content.
 
 Other services that use edge locations include:  [Amazon Route 53](https://aws.amazon.com/route53/), [AWS Shield](https://aws.amazon.com/shield/), [AWS Web Application Firewall](https://aws.amazon.com/waf/) and [Lambda@Edge](https://aws.amazon.com/lambda/edge/).
+
 ---
 
 ---
