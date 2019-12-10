@@ -42,5 +42,23 @@ As an architect, it is the customers responsibility to take advantage of multi-A
 
 ---
 
+---
+**Question**: How do you decide between spot and on demand?
+
+**Answer**: Both spot and on-demand instances are billed fixed for the first-minute and then by the second.  Spot instances are the most cost effective because they can provide up to 90% savings.  [Spot instances](https://aws.amazon.com/ec2/spot/) are used when it doesn't matter when a task is run or if it is interrupted.  In practice this creates a very large use case for spot.  What are some examples use cases for spot instances?
+
+* Experimenting with an AWS service
+* Training deep learning or machine learning jobs
+* Scaling out a webservice or other service in combination with on-demand instances
+
+On-demand instances can be used when a workload is run in steady state.  For example, a web service that is in production wouldn't want to only use spot instances.  Instead it could start with on-demand instances and when the usage of the service was determined (i.e. 2 C3.large instances), then [reserved instances](https://aws.amazon.com/ec2/pricing/reserved-instances/) should be bought.
+
+---
+---
+**Question**: How does spot hibernation work?
+
+**Answer**: There are a few reasons for [spot instance interruptions](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-interruptions.html) including price (bid higher than maximum price), capacity (there are not enough spot instances unused), constraints (i.e. Availability Zone cannot be met).  To hybernate, it must have an EBS root volume.
+
+---
 
 
