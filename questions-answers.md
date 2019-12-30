@@ -90,9 +90,6 @@ You can read the [official putty documentation here](https://www.chiark.greenend
 ---
 **Question**: How is Lightsail different than EC2 or other services
 
-![putty](https://user-images.githubusercontent.com/58792/71585331-2af79480-2ae4-11ea-94dd-81935d0e97e9.png)
-
-
 **Answer**: Lightsail is a PAAS or Platform as a Service.  This means that a developer only needs to worry about configuring and developing the wordpress application.  EC2 is lower level and is called IAAS (Infrastructure as a Service).  There is a spectrum with cloud computing where lower level services are provided just like bulk ingrediants at a store like Costco.  Those bulk ingrediants can be used to create meals, but it requires skill.  Likewise, a person can order meals to get delivered to their house.  These meals are more expensive but require less or no skill.  Platform as a Service is similar, user pays more for higher level services. 
 
 Other PAAS solutions (outside of AWS) are:  [Heroku](https://www.heroku.com/) and [Google App Engine](https://cloud.google.com/appengine/).
@@ -110,12 +107,13 @@ You can read more about types of Cloud Services in the [Cloud Computing chapter 
 **Answer**: A fleet works the same way a rental car company works.  When you are asked for a reservation for a car they will ask you to pick a group:  compact, sedan, luxury, or truck.  There is no guarantee of a specific model, only of a specific group.  Likewise, because spot instances are an open market, it is possible that a particulary machine, say C3.8XLarge is not available, but a similar machine is.  By selecting a fleet you can request a group of machines that will have similar:  CPU, Memory and Network capabilities.
 
 You can read more about [EC2 Fleet here](https://aws.amazon.com/blogs/aws/ec2-fleet-manage-thousands-of-on-demand-and-spot-instances-with-one-request/).
+
 ---
 
 ---
 **Question**: In 3.1 compute service, what does spikey means for the sizing of on-demand instance?
 
-![fleet](hhttps://user-images.githubusercontent.com/58792/71586546-97749280-2ae8-11ea-99c1-e528b4dd40c4.png)
+![spike](https://user-images.githubusercontent.com/58792/71586546-97749280-2ae8-11ea-99c1-e528b4dd40c4.png)
 
 **Answer**: A "spikey" workload could be a website that suddenly gets 10X the traffic.  Let's say this website sells products.  During the year, it is normally a flat amount of traffic, but around December the traffic spikes to 10X the normal traffic.  This would be a good use case for "on-demand" instances to scale out to meet this requirement.  The normal traffic pattern should use reserved instances, but for the spike, this should use on-demand.  
 
@@ -132,6 +130,7 @@ You can read more about [EC2 Fleet here](https://aws.amazon.com/blogs/aws/ec2-fl
 
 * You can read more about [Lambda Here](https://aws.amazon.com/lambda/)
 * You can build a [Python AWS Lambda project here](https://github.com/noahgift/awslambda)
+
 ---
 
 ---
