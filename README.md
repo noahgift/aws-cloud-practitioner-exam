@@ -6,9 +6,9 @@ Study Material for AWS Cloud Practitioner Exam.
 
 * You can take the [Udemy course here](https://www.udemy.com/course/aws-certified-cloud-practitioner-2020-real-world-pragmatic/?referralCode=CAC679A7D08212773428).  
 
-* [Course Website](https://noahgift.github.io/aws-cloud-practitioner-exam/)
+* [Course Website](http://awscp.noahgift.com/)
 * [Labs](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
-* [Questions and Answers](https://noahgift.github.io/aws-cloud-practitioner-exam/questions-answers)
+* [Questions and Answers](http://awscp.noahgift.com/questions-answers)
 * [Pragmatic AI Labs YouTube](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 * [Get the latest content and updates from Pragmatic AI Labs:  Subscribe to the mailing list!](https://newsletter.paiml.com/social)
 
