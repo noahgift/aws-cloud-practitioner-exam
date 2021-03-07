@@ -4,7 +4,7 @@ Study Material for AWS Cloud Practitioner Exam.
 
 ## Study Resources
 
-* You can take a [Podia Course I created here](https://store.paiml.com/aws-cloud-practitioner).  
+* You can take a [Free Course I created here](https://store.paiml.com/aws-cloud-practitioner).  
 
 * [Course Website](https://awscp.noahgift.com/)
 * [Labs](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
