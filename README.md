@@ -4,30 +4,11 @@ Study Material for AWS Cloud Practitioner Exam.
 
 ## Study Resources
 
-* You can take a [Free Course I created here](https://store.paiml.com/aws-cloud-practitioner).  
 * [Course Website](https://awscp.noahgift.com/)
 * [Labs](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
 * [Questions and Answers](https://awscp.noahgift.com/questions-answers)
 * [Pragmatic AI Labs YouTube](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 * [Get the latest content and updates from Pragmatic AI Labs:  Subscribe to the mailing list!](https://newsletter.paiml.com/social)
-
-
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 
 
 ## Need Help?  File a ticket
@@ -86,3 +67,6 @@ His most recent online courses are:
 * [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
 
 
+<!-- FUNNEL-001 footer: replace aws-cloud-practitioner-exam with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=aws-cloud-practitioner-exam) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=aws-cloud-practitioner-exam)
