@@ -4,30 +4,11 @@ Study Material for AWS Cloud Practitioner Exam.
 
 ## Study Resources
 
-* You can take a [Free Course I created here](https://store.paiml.com/aws-cloud-practitioner).  
 * [Course Website](https://awscp.noahgift.com/)
 * [Labs](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
 * [Questions and Answers](https://awscp.noahgift.com/questions-answers)
 * [Pragmatic AI Labs YouTube](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
 * [Get the latest content and updates from Pragmatic AI Labs:  Subscribe to the mailing list!](https://newsletter.paiml.com/social)
-
-
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 
 
 ## Need Help?  File a ticket
@@ -85,4 +66,10 @@ His most recent online courses are:
 * [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
 
+<!-- funnel:start -->
+---
 
+**Learn cloud and serverless engineering:** [Building Cloud Computing Solutions at Scale, Duke (Coursera)](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=aws-cloud-practitioner-exam) · [Generative AI Development on AWS program (edX)](https://www.edx.org/certificates/professional-certificate/ai-generative-ai-development-on-aws?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=aws-cloud-practitioner-exam)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
